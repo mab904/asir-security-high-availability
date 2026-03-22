@@ -1,4 +1,4 @@
-# Security and High Availability – ASIR Module
+# 🛡️ Security and High Availability – ASIR Module
 
 This repository contains the practical assignments from the Security and High Availability module.  
 The documentation is in Spanish and organized by topics to make navigation easier. If you need any clarification, I’ll be happy to help 😁. (The practices are documented through PDF files containing screenshots and explanations)
